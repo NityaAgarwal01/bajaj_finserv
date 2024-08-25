@@ -30,7 +30,7 @@ app
 
     res.json({
       is_success: true,
-      user_id: "nitya_10",
+      user_id: "nitya10",
       email: "nitya.agarwal2021@vitstudent.ac.in",
       roll_number: "21BIT0238",
       numbers: numbers,
